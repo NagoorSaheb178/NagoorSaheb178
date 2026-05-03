@@ -1,4 +1,4 @@
-<!-- 🔥 Neon Typing Header (FIXED - no cut) -->
+<!-- 🔥 Neon Typing Header -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=Hi+👋,+I'm+Shaik+Nagoor+Saheb;Full+Stack+Developer;Node.js+%7C+Java+%7C+Python;Building+Futuristic+Apps+🚀" />
@@ -17,7 +17,7 @@
 * 🎓 B.Tech IT Student
 * 💻 Full Stack Developer
 * 🤖 AI & Cloud Enthusiast
-* 🚀 Building scalable & futuristic apps
+* 🚀 Building scalable & futuristic applications
 * 🧠 Strong in DSA & Problem Solving
 
 ---
@@ -58,16 +58,20 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Code-Level%20MAX-00F7FF?style=for-the-badge&logo=hackthebox"/>
 <img src="https://img.shields.io/badge/FullStack-MODE-ON-FF00FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-Certified-00FF9C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-POWERED-00FF9C?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-* 🧠 Second Brain (AI Knowledge System)
-* 🌍 Urban Sprawl Analysis (ML + Satellite Data)
-* 🤖 GitGrade (AI GitHub Analyzer)
+* 🔗 [Real-Time Poll Rooms](https://github.com/NagoorSaheb178/Real-Time-Poll-Rooms)
+* 🔗 [Workflow Builder Lite](https://github.com/NagoorSaheb178/Workflow-Builder-Lite)
+* 🔗 [AI Note Taking App](https://github.com/NagoorSaheb178/ai-note-taking-app)
+* 🔗 [Healthcare Translation App](https://github.com/NagoorSaheb178/Healthcare-Doctor-Patient-Translation-Web-Application)
+* 🔗 [AI Hallucination Verification](https://github.com/NagoorSaheb178/AI-Hallucination-Citation-Verification-System)
+* 🔗 [Travel Agent AI](https://github.com/NagoorSaheb178/Tavel-agent-ai)
+* 🔗 [Grow My Therapy](https://github.com/NagoorSaheb178/Grow-My-Therapy)
 
 ---
 
@@ -97,8 +101,12 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:nagoorsaheb718@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/nagoor-saheb-shaik-b01926291/">
+<img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:nagoorsaheb718@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
