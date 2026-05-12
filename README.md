@@ -61,7 +61,7 @@
 * 🔗 [AI Hallucination Verification](https://github.com/NagoorSaheb178/AI-Hallucination-Citation-Verification-System)
 * 🔗 [Travel Agent AI](https://github.com/NagoorSaheb178/Tavel-agent-ai)
 * 🔗 [Grow My Therapy](https://github.com/NagoorSaheb178/Grow-My-Therapy)
-*     [Nagoor-Saheb-Portfoli] (https://nagoor-saheb-portfolio.vercel.app/)
+* 🔗 [Nagoor-Saheb-Portfolio](https://nagoor-saheb-portfolio.vercel.app/)  
 
 ---
 
